@@ -39,10 +39,10 @@
         </header>
         <nav class="nav-menu">
             <div class="nav-header">
-                <span class="nav-logo">⚔️ Last War</span>
+                <span class="nav-logo">⚔️ Command</span>
                 <button class="nav-collapse-btn" aria-label="Collapse sidebar" title="Collapse">‹</button>
             </div>
-            <div class="nav-links">
+            <div class="nav-links">\n                <a href="/command-center.html" class="nav-link">🎯 Command Center</a>\n                <a href="/transfer-hq.html" class="nav-link">🔄 Transfer HQ</a>
                 <a href="/" class="nav-link">👥 Members</a>
                 <a href="/train.html" class="nav-link">🚂 Train</a>
                 <a href="/awards.html" class="nav-link">🏆 Awards</a>
